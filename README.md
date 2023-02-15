@@ -1,3 +1,3 @@
-##Fine-tuning of a GPT-3 model to answer clasification questions based on a NoSQL database
-#Introduction
+## Fine-tuning of a GPT-3 model to answer clasification questions based on a NoSQL database
+### Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper in turpis eu luctus. Vivamus accumsan est vel nulla consequat, quis iaculis tellus facilisis. Mauris suscipit pretium turpis, vitae maximus sem mattis nec. Cras nec nisl leo. Morbi at lobortis nunc. Nam odio metus, sodales vel libero non, egestas ullamcorper ligula. Sed eget volutpat nulla. Donec mauris lorem, cursus ac enim ut, malesuada faucibus nunc. Vivamus id laoreet sem, et mollis ante. Ut vitae mattis turpis, et faucibus quam. Proin sapien lectus, euismod ac tempor sit amet, tristique eget risus. Donec porttitor pellentesque sem nec iaculis. Praesent feugiat viverra sagittis.
